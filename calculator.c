@@ -55,5 +55,6 @@ int main()
     {
         printf("INVALID INPUT!!! >>> Enter an operator like +,-,*,/,s"); //for invalid inputs
     }
+    getchar();
     return 0;
 }
